@@ -1,0 +1,31 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-color : #333333 ; 
+	color : white ; 
+}
+
+link {
+	color : green ; 
+}
+
+hr {
+	background-color : green ; 
+	height : 2px ; 
+	border : 0 ; 
+}
+
+a {
+	color : green ; 
+}
+.logout {
+	position : relative ; 
+	top : -230px ; 	
+}
+
+#header {
+	dispaly : inline ; 
+}
+
+th,td {
+	text-align : centre ; 
+}
